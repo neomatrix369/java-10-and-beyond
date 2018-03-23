@@ -35,25 +35,39 @@
 
 ### JEPs and Articles
 
-[Feature 1]:
+[JEP 286](http://openjdk.java.net/jeps/286) Local-Variable Type Inference:
 
-- [Placeholder](...) (...Author)
+- [Java 10 Sneak Peek: Local-Variable Type Inference (var)!](https://medium.com/@afinlay/java-10-sneak-peek-local-variable-type-inference-var-3022016e1a2b) (Adrian D. Finlay)
 
+[296](http://openjdk.java.net/jeps/296) Consolidate the JDK Forest into a Single Repository:
 
-[Feature 2]:
+- [Oracle Consolidates the OpenJDK 10 Repository Forest](https://www.infoq.com/news/2017/09/openjdk-10-consolidated-repo) (...Author)
 
-- [Placeholder](...) (...Author)
+[JEP 304](http://openjdk.java.net/jeps/304) Garbage-Collector Interface:
 
-[Feature 3]:
+[JEP 307](http://openjdk.java.net/jeps/307) Parallel Full GC for G1:
 
-- [Placeholder](...) (...Author)
+- [JEP 307: Parallel Full GC for G1 - discussion thread on OpenJDK mailing list](http://mail.openjdk.java.net/pipermail/hotspot-gc-dev/2017-July/020307.html) (Members of the OpenJDK HotSpot group)
 
-[Feature 4]:
-- [Placeholder](...) (...Author)
+[JEP 310](http://openjdk.java.net/jeps/310) Application Class-Data Sharing:
 
-Misc:
+- [Improve Launch Times On Java 10 With Application Class-Data Sharing](https://blog.codefx.org/java/application-class-data-sharing/) (Codefx, Nicolai Parlog)
 
-- [Placeholder](...)
+[JEP 312](http://openjdk.java.net/jeps/312) Thread-Local Handshakes:
+
+- [Discussions on StackOverflow](https://stackoverflow.com/questions/47222819/explanation-of-the-thread-local-handshakes) (Codefx, Nicolai Parlog)
+
+[JEP 313](http://openjdk.java.net/jeps/313) Remove the Native-Header Generation Tool (javah):
+
+[JEP 314](http://openjdk.java.net/jeps/314) Additional Unicode Language-Tag Extensions:
+
+[JEP 316](http://openjdk.java.net/jeps/316) Heap Allocation on Alternative Memory Devices:
+
+[JEP 317](http://openjdk.java.net/jeps/317) Experimental Java-Based JIT Compiler: 
+
+[JEP 319](http://openjdk.java.net/jeps/319) Root Certificates:
+
+[JEP 322](http://openjdk.java.net/jeps/322) Time-Based Release Versioning:
 
 ### Books
 
@@ -65,13 +79,6 @@ Misc:
 
 ### Repositories
 - [Placeholder](...) (...Author)
-
-
-***
-
-### JEPs
-
-- [Placeholder](...): [Title of the JEP]
 
 
 #### Misc

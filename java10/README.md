@@ -81,7 +81,9 @@ See [License](LICENSE) document to find out about the licensing terms and condit
 ## Resources
 
 ### Must reads
-- [Placeholder](...)
+- [Features in Java 10](https://dzone.com/articles/features-in-java-10)
+- [What's Planned for JDK 10?](https://dzone.com/articles/whats-planned-for-jdk-10)
+- [Java 10 Checklist: Meet the Declaration That Will Change the Way You Code](https://blog.takipi.com/java-10-checklist-meet-the-declaration-that-will-change-the-way-you-code/)
 
 ### Other resources
 - [JDK 10 Resources](./Java-10-Resources.md)

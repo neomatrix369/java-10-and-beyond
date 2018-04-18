@@ -7,7 +7,7 @@ Perform the below commands to see the contents of the respective Java classes co
 
     $ cat src/com/typeinference/FullUsesTypes.java
 
-**Note:** in case one of the below .sh script fails due to the tree command, please take a look at Download and install the tree and wget command section in the README.md file and apply the appropriate solution.
+**Note:** in case one of the below `.sh` script fails due to the `tree` command, please take a look at Download and install the `tree` and `wget` command section in the `README.md` file and apply the appropriate solution.
 
 Compiled the example with the following command:
 
@@ -17,19 +17,18 @@ And we run the example with the following command:
 
     $ ./run.sh
     
-Now, open the file `com/typeinference/FullUsesTypes.java` and replace all e data types declaration with
-the new keyword `var`, this change allow you to use Variable Type Inference.
+Now, open the file `com/typeinference/FullUsesTypes.java` and replace all data types declaration with
+the new keyword `var`, this change allows you to use Variable Type Inference.
 
     int id --> var id
     Integer myNumber --> var myNumber
 
-Once you have replaces all primitive data types declaration, execute next command for compile the example:
+Once you have replaced all primitive data types declaration, execute next command for compile the example:
 
     $ ./compile.sh
 
-**Note:** The class `FullUsesTypes` has variable declarations wich Variable Type Inference can't be used. 
-Open the file `com/typeinference/FullUsesTypes.java` and replace the uses of Type Inference wich it can't be used 
-for the original type the declaration. 
+** Note:** The `FullUsesTypes` class has some variable declarations with Variable Type Inference that can not be used.
+Open the file `com/typeinference/FullUsesTypes.java` identify the uses of Variable Type Inference that are not allowed and change them for the original declaration.
 
 Once you example compiles, execute it with the following command: 
 

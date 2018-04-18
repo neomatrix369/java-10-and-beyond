@@ -43,7 +43,9 @@
 
 - [Oracle Consolidates the OpenJDK 10 Repository Forest](https://www.infoq.com/news/2017/09/openjdk-10-consolidated-repo) (...Author)
 
-[JEP 304](http://openjdk.java.net/jeps/304) Garbage-Collector Interface:
+[JEP 304](http://openjdk.java.net/jeps/304) Garbage-Collector Interface: 
+
+- [..placeholder...]
 
 [JEP 307](http://openjdk.java.net/jeps/307) Parallel Full GC for G1:
 
@@ -59,15 +61,27 @@
 
 [JEP 313](http://openjdk.java.net/jeps/313) Remove the Native-Header Generation Tool (javah):
 
+- [..placeholder...]
+
 [JEP 314](http://openjdk.java.net/jeps/314) Additional Unicode Language-Tag Extensions:
+
+- [..placeholder...]
 
 [JEP 316](http://openjdk.java.net/jeps/316) Heap Allocation on Alternative Memory Devices:
 
-[JEP 317](http://openjdk.java.net/jeps/317) Experimental Java-Based JIT Compiler: 
+- [..placeholder...]
+
+[JEP 317](http://openjdk.java.net/jeps/317) Experimental Java-Based JIT Compiler:
+
+- [..placeholder...] 
 
 [JEP 319](http://openjdk.java.net/jeps/319) Root Certificates:
 
+- [..placeholder...]
+
 [JEP 322](http://openjdk.java.net/jeps/322) Time-Based Release Versioning:
+
+- [..placeholder...]
 
 ### Books
 

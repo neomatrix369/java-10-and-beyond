@@ -2,7 +2,7 @@
 
 This example covers the use of `Type Inference` in JShell to declare variables using them in Expressions, Statements, and Blocks as Loops.
 
-You can run this example on your local JShell or online 
+You can run this example on your local JShell or online. For more information about JShell you can go to:  https://github.com/AdoptOpenJDK/jdk9-jigsaw/tree/master/session-3-jshell
 
 To execute Local JShell run next command
 

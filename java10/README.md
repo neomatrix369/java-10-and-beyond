@@ -5,10 +5,9 @@ Examples of some of the features of Java 10 released in the Early Access build o
 ___
 
 
-####   Please note you are in the `master` branch which contains exercises which need to be solved by looking at documentation or resources provided in this repo. Hints may be provided within the source or script files. If you hit a roadblock and really want to see a possible solution you can switch to the `exercise-solutions` branch for that. 
+### Please note you are in the exercise-solutions branch which contains solved exercises and is mainly for beginners or if you have hit a roadblock while solving the exercises in the master branch.
 
-####   Looking at the solutions can take away the challenge behind solving the exercises. Stay on the `master` branch in case you would like to continue to have fun solving the exercises and working through the challenges.
-
+### Looking at the solutions can take away the fun and challenge behind solving the exercises. Switch to the master branch in case you would like to continue to have fun by solving the exercises and working through the challenges.
 ___
 
 ## Setup (all platforms)

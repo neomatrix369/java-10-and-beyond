@@ -46,7 +46,9 @@
 
 - [Placeholder](...) (...Author)
 
-### Java 10 features
+### JEPs and blog posts/articles
+
+#### Java 10 features: what others are saying!
 
 - [How Java 10 will CHANGE the Way You Code | OverOps Blog](https://blog.takipi.com/how-java-10-will-change-the-way-you-code/)
 - [Java 10: New Features And Enhancements - DZone Java](https://dzone.com/articles/java-10-new-features-and-enhancements)
@@ -56,8 +58,6 @@
 - [It is time for Java 10 - All new features and release notes - JAXenter](https://jaxenter.com/java-10-is-finally-here-lets-have-a-look-at-its-new-features-142654.html)
 - [Features in Java 10 - DZone Java](https://dzone.com/articles/features-in-java-10)
 - [Java 10 – An Introduction](https://blog.idrsolutions.com/2018/04/java-10-an-introduction/)
-
-### JEPs and blog posts/articles
 
 [JEP 286](http://openjdk.java.net/jeps/286) Local-Variable Type Inference:
 
@@ -117,6 +117,7 @@
 
 - [Tweet from @Java](https://twitter.com/java/status/976163714700324866) (Twitter handle @Java)
 - [No Free Java LTS Version?](https://medium.com/codefx-weekly/no-free-java-lts-version-b850192745fb) (Codefx, Nicolai Parlog)
+- [Back to JDK 10: “Most feature releases should contain at least one or two significant features”](https://jaxenter.com/jdk-10-feature-releases-new-scheme-138603.html) (Gabriela Motroc from jaxenter)
 
 Docker fixes and enhancements:
 - [Java on Docker will no longer suck: improvements coming in Java 10](https://www.opsian.com/blog/java-on-docker/) (By Richard Warburton, Sadiq Jaffer from Opsian)

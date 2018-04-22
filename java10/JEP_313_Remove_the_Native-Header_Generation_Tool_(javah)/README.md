@@ -1,5 +1,22 @@
 ### JEP 313: Remove the Native-Header Generation Tool (javah)
 
+Check in the `bin` folder of the JDK 10 Home to see the absence of `javah`:
+
+```bash
+ls $JAVA10_HOME/bin
+```
+
+`JAVA10_HOME` above is the `JAVA_HOME` for JDK10, points to one of the `/usr/lib/...` directory or elsewhere (may differ on your end), needs to be set for the above to work.
+
+The results should look like this:
+
+```bash
+appletviewer  jarsigner  javap         jconsole   jdeps   jjs    jmod        jstack        keytool  rmid         servertool  wsimport
+idlj          java       javapackager  jcontrol   jhsdb   jlink  jps         jstat         orbd     rmiregistry  tnameserv   xjc
+jaotc         javac      javaws        jdb        jimage  jmap   jrunscript  jstatd        pack200  schemagen    unpack200
+jar           javadoc    jcmd          jdeprscan  jinfo   jmc    jshell      jweblauncher  rmic     serialver    wsgen
+```
+
 Run the below command on `NativeTest.java` in the current directory: 
 
 ```bash

@@ -30,7 +30,7 @@
 - [Download JDK 10 binaries from OTN](http://www.oracle.com/technetwork/java/javase/downloads/index.html) [Alternative source](http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html)
 - [JDK 10 GA/Updates binaries](http://jdk.java.net/10/)
 - [JDK SE 10 RI binaries](http://jdk.java.net/java-se-ri/10)
-- [Adopt OpenJDK 10 binaries](https://ci.adoptopenjdk.net/) - look for the tab OpenJDK builds  
+- [Adopt OpenJDK 10 binaries](https://ci.adoptopenjdk.net/) - look for the 'OpenJDK builds' tab  
 
 ***
 
@@ -57,7 +57,7 @@
 - [Features in Java 10 - DZone Java](https://dzone.com/articles/features-in-java-10)
 - [Java 10 – An Introduction](https://blog.idrsolutions.com/2018/04/java-10-an-introduction/)
 
-### JEPs and Articles
+### JEPs and blog posts/articles
 
 [JEP 286](http://openjdk.java.net/jeps/286) Local-Variable Type Inference:
 
@@ -65,7 +65,7 @@
 - [First Contact With ‘var’ In Java 10](https://blog.codefx.org/java/java-10-var-type-inference/) (Codefx, Nicolai Parlog)
 - [See under Value Types of The Top 3 Java Performance Improvements we're looking forward to](https://www.opsian.com/blog/top-3-java-performance-improvements/)
 
-[296](http://openjdk.java.net/jeps/296) Consolidate the JDK Forest into a Single Repository:
+[JEP 296](http://openjdk.java.net/jeps/296) Consolidate the JDK Forest into a Single Repository:
 
 - [Oracle Consolidates the OpenJDK 10 Repository Forest](https://www.infoq.com/news/2017/09/openjdk-10-consolidated-repo) (Abraham Marín Pérez)
 
@@ -121,7 +121,7 @@
 Docker fixes and enhancements:
 - [Java on Docker will no longer suck: improvements coming in Java 10](https://www.opsian.com/blog/java-on-docker/) (By Richard Warburton, Sadiq Jaffer from Opsian)
 
-### Blog posts, presentations, slides
+### General blog posts, presentations, slides
 
 - [The Top 3 Java Performance Improvements we're looking forward to](https://www.opsian.com/blog/top-3-java-performance-improvements/) (By Richard Warburton, Sadiq Jaffer from Opsian) - a mix of Java 9, 10 and 11
 

@@ -1,4 +1,4 @@
-# java10
+# Java 10
 
 Examples of some of the features of Java 10 released in the Early Access build of JDK10.
 

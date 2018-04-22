@@ -57,10 +57,11 @@
 - [JDK 10: 10 new features and enhancements in Java 10](http://www.thewindowsclub.com/java-10-new-features)
 - [It is time for Java 10 - All new features and release notes - JAXenter](https://jaxenter.com/java-10-is-finally-here-lets-have-a-look-at-its-new-features-142654.html)
 - [Features in Java 10 - DZone Java](https://dzone.com/articles/features-in-java-10)
-- [Java 10 – An Introduction](https://blog.idrsolutions.com/2018/04/java-10-an-introduction/)
+- [Java 10 – An Introduction](https://blog.idrsolutions.com/2018/04/java-10-an-introduction/) (Bethan Palmer, Developer at IDR Solutions)
 
 [JEP 286](http://openjdk.java.net/jeps/286) Local-Variable Type Inference:
 
+- [Java 10 Local-Variable Type Inference Explained in 5 Minutes](https://blog.idrsolutions.com/2018/04/java-10-local-variable-type-inference-explained-in-5-minutes) (Bethan Palmer, Developer at IDR Solutions)
 - [Java 10 Sneak Peek: Local-Variable Type Inference (var)!](https://medium.com/@afinlay/java-10-sneak-peek-local-variable-type-inference-var-3022016e1a2b) (Adrian D. Finlay)
 - [First Contact With ‘var’ In Java 10](https://blog.codefx.org/java/java-10-var-type-inference/) (Codefx, Nicolai Parlog)
 - [See under Value Types of The Top 3 Java Performance Improvements we're looking forward to](https://www.opsian.com/blog/top-3-java-performance-improvements/)
@@ -104,7 +105,7 @@
 
 [JEP 317](http://openjdk.java.net/jeps/317) Experimental Java-Based JIT Compiler:
 
-- [Java 10’s Experimental JIT Compiler explained in 5 minutes](https://blog.idrsolutions.com/2018/04/java-10-project-graal-explained-5-minutes/)  (Rob, Software Engineer at IDRSolutions) 
+- [Java 10’s Experimental JIT Compiler explained in 5 minutes](https://blog.idrsolutions.com/2018/04/java-10-project-graal-explained-5-minutes/)  (Georgia Ingham, Java Developer at IDRSolutions) 
 - [#Java Training Session](https://twitter.com/java/status/986759064481878016) (Twitter handle @Java) 
 - Related JEPs: [JEP 243: Java-Level JVM Compiler Interface](http://openjdk.java.net/jeps/243) and [JSR 223: Scripting for the Java Platform](https://www.jcp.org/en/jsr/detail?id=223) (also see [Scripting for the Java Platform](https://en.wikipedia.org/wiki/Scripting_for_the_Java_Platform))
 
@@ -125,6 +126,7 @@ Docker fixes and enhancements:
 ### General blog posts, presentations, slides
 
 - [The Top 3 Java Performance Improvements we're looking forward to](https://www.opsian.com/blog/top-3-java-performance-improvements/) (By Richard Warburton, Sadiq Jaffer from Opsian) - a mix of Java 9, 10 and 11
+- [How Java 10 will improve performance](https://blog.idrsolutions.com/2018/04/java-10-will-improve-performance/) (Kieran France, Programmer for IDRSolutions) 
 
 ### Books
 

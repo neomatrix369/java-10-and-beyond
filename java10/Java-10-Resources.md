@@ -16,12 +16,13 @@
 
 - [JDK 10 Project Page](http://openjdk.java.net/projects/jdk/10/); includes a list of JEPs targeted for Java 10 (see [JDK Project](http://openjdk.java.net/projects/jdk/))
 - [List of all JEPs](http://openjdk.java.net/jeps/0)
-- List of pre-Java 10/Java 10 bug fixes: 
+- List of pre-Java 10/Java 10 bug fixes and enhancements: 
     - [Official list](http://www.oracle.com/technetwork/java/javase/2col/10-0-1-bugfixes-4308880.html) 
     - [Bugs database: JDK 10](https://www.oracle.com/search/results?Ntt=%22JDK%2010%22&Dy=1&Nty=1&cat=bugs&Ntk=S3) 
     - [Bugs database: Java 10](https://www.oracle.com/search/results?Ntt=%22Java%2010%22&Dy=1&Nty=1&cat=bugs&Ntk=S3)
-    - [CPU & Memory limits issues: JDK-8146115](https://bugs.openjdk.java.net/browse/JDK-8146115)
-    - [Attaching to Namespace issues: JDK-8179498](https://bugs.openjdk.java.net/browse/JDK-8179498)
+    - [CPU & Memory limits issue fix: JDK-8146115](https://bugs.openjdk.java.net/browse/JDK-8146115)
+    - [Attaching to Namespace issue fix: JDK-8179498](https://bugs.openjdk.java.net/browse/JDK-8179498)
+    - [Check release notes for more enhancements](http://www.oracle.com/technetwork/java/javase/10-relnote-issues-4108729.html#NewFeature)
 - [Java 10 Documentation](https://docs.oracle.com/javase/10/index.html)
 - [JavaDoc](https://download.java.net/java/jdk10/docs/api/overview-summary.html) (API documentation)
 - [Quality Outreach](https://wiki.openjdk.java.net/display/quality/Quality+Outreach) (we could use your help here)

@@ -29,6 +29,8 @@ Java 10 project features
 
 To see more details please visit http://openjdk.java.net/projects/jdk/10/
 
+See [Java 10 README.md](java10/README.md)
+
 # Java 11
 
 Java 11 project features

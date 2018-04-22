@@ -16,6 +16,12 @@
 
 - [JDK 10 Project Page](http://openjdk.java.net/projects/jdk/10/); includes a list of JEPs targeted for Java 10 (see [JDK Project](http://openjdk.java.net/projects/jdk/))
 - [List of all JEPs](http://openjdk.java.net/jeps/0)
+- List of pre-Java 10/Java 10 bug fixes: 
+    - [Official list](http://www.oracle.com/technetwork/java/javase/2col/10-0-1-bugfixes-4308880.html) 
+    - [Bugs database: JDK 10](https://www.oracle.com/search/results?Ntt=%22JDK%2010%22&Dy=1&Nty=1&cat=bugs&Ntk=S3) 
+    - [Bugs database: Java 10](https://www.oracle.com/search/results?Ntt=%22Java%2010%22&Dy=1&Nty=1&cat=bugs&Ntk=S3)
+    - [CPU & Memory limits issues: JDK-8146115](https://bugs.openjdk.java.net/browse/JDK-8146115)
+    - [Attaching to Namespace issues: JDK-8179498](https://bugs.openjdk.java.net/browse/JDK-8179498)
 - [Java 10 Documentation](https://docs.oracle.com/javase/10/index.html)
 - [JavaDoc](https://download.java.net/java/jdk10/docs/api/overview-summary.html) (API documentation)
 - [Quality Outreach](https://wiki.openjdk.java.net/display/quality/Quality+Outreach) (we could use your help here)
@@ -57,6 +63,7 @@
 
 - [Java 10 Sneak Peek: Local-Variable Type Inference (var)!](https://medium.com/@afinlay/java-10-sneak-peek-local-variable-type-inference-var-3022016e1a2b) (Adrian D. Finlay)
 - [First Contact With ‘var’ In Java 10](https://blog.codefx.org/java/java-10-var-type-inference/) (Codefx, Nicolai Parlog)
+- [See under Value Types of The Top 3 Java Performance Improvements we're looking forward to](https://www.opsian.com/blog/top-3-java-performance-improvements/)
 
 [296](http://openjdk.java.net/jeps/296) Consolidate the JDK Forest into a Single Repository:
 
@@ -72,6 +79,7 @@
 - [Java 10 improvements to Garbage Collection explained in 5 minutes](https://blog.idrsolutions.com/2018/04/java-10-improvements-to-garbage-collection-explained-in-5-minutes/) (Rob, Software Engineer at IDRSolutions) 
 - [#Java Training Session](https://twitter.com/java/status/986759064481878016) (Twitter handle @Java)
 - [JEP 307: Parallel Full GC for G1 - discussion thread on OpenJDK mailing list](http://mail.openjdk.java.net/pipermail/hotspot-gc-dev/2017-July/020307.html) (Members of the OpenJDK HotSpot group)
+- [Java on Docker will no longer suck: improvements coming in Java 10](https://www.opsian.com/blog/java-10-with-g1/) (By Richard Warburton, Sadiq Jaffer from Opsian)
 
 [JEP 310](http://openjdk.java.net/jeps/310) Application Class-Data Sharing:
 
@@ -109,6 +117,13 @@
 
 - [Tweet from @Java](https://twitter.com/java/status/976163714700324866) (Twitter handle @Java)
 - [No Free Java LTS Version?](https://medium.com/codefx-weekly/no-free-java-lts-version-b850192745fb) (Codefx, Nicolai Parlog)
+
+Docker fixes and enhancements:
+- [Java on Docker will no longer suck: improvements coming in Java 10](https://www.opsian.com/blog/java-on-docker/) (By Richard Warburton, Sadiq Jaffer from Opsian)
+
+### Blog posts, presentations, slides
+
+- [The Top 3 Java Performance Improvements we're looking forward to](https://www.opsian.com/blog/top-3-java-performance-improvements/) (By Richard Warburton, Sadiq Jaffer from Opsian) - a mix of Java 9, 10 and 11
 
 ### Books
 

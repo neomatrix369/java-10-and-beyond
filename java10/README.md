@@ -1,4 +1,4 @@
-# java10
+# Java 10
 
 Examples of some of the features of Java 10 released in the Early Access build of JDK10.
 
@@ -55,13 +55,13 @@ See [Download, install and configure Eclipse Oxygen for JDK10](setupEclipseOxyge
 
 Please ensure you have verified that the necessary JDK programs work in your environment with the help of the [Download, install and verify JDK](setupAndVerifyJDK.md) resource. 
 
-- Session 1: JEP 296: Local-Variable Type Inference
+- Session 1: [JEP 296](http://openjdk.java.net/jeps/296): Local-Variable Type Inference
    - [Examples on how to use the `var` keyword in Java 10](./JEP_286_Local-Variable_Type_Inference/README.md)
    
-- Session 2: JEP 313: Remove the Native-Header Generation Tool (javah)
+- Session 2: [JEP 313](http://openjdk.java.net/jeps/313): Remove the Native-Header Generation Tool (javah)
    - [Example on how to check for removed functionality and its alternative solution](./JEP_313_Remove_the_Native-Header_Generation_Tool_(javah)/README.md)
 
-- Session 3: JEP 319: Root Certificates 
+- Session 3: [JEP 319](http://openjdk.java.net/jeps/319): Root Certificates 
    - [Example on how to check for the new added functionality](./JEP_319_Root_Certificates/README.md)
 
 - Session 3: [Topic 4]

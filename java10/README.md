@@ -8,7 +8,7 @@ ___
 
 ####   Looking at the solutions can take away the fun and challenge behind solving the exercises. Switch to the `master` branch in case you would like to continue to have fun by solving the exercises and working through the challenges.
 
-[Switch to master (exercises) branch]((https://github.com/neomatrix369/java-10-and-beyond/blob/master/java10/README.md))
+[Switch to master (exercises) branch](https://github.com/neomatrix369/java-10-and-beyond/blob/master/java10/README.md)
 ___
 
 ## Setup (all platforms)

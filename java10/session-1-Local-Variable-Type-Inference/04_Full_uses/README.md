@@ -1,11 +1,11 @@
 **Local Variable Type Inference for all Types example**
 
-This example is a class named `FullUsesTypes` wichs its methods should use 
+This example is a class named `Java10var` whose methods should use 
 `Type Inference` to declare variables using them in Expressions, Statements, and Blocks as Loops.
 
 Perform the below commands to see the contents of the respective Java classes contained in the src folder:
 
-    $ cat src/com/typeinference/FullUsesTypes.java
+    $ cat src/com/typeinference/Java10var.java
 
 **Note:** in case one of the below `.sh` script fails due to the `tree` command, please take a look at Download and install the `tree` and `wget` command section in the `README.md` file and apply the appropriate solution.
 

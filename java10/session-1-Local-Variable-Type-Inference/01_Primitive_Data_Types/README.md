@@ -22,4 +22,4 @@ the new keyword `var`, this change allows you to use Variable Type Inference.
 
     int id --> var id
 
-Once you have replaced all primitive data types declaration, execute the commands for compile and run. 
+Once you have replaced all primitive data types declaration, execute the commands for compile and run. Please compare the outputs, are they the same? 

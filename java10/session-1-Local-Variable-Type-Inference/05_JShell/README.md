@@ -24,10 +24,10 @@ Verify you are using JShell for Java 10 version
     |  For an introduction type: /help intro
     
     
-Once you are on JShell, try to do next excercises using Variable Type Inference
+Once you are on JShell, try to do next exercises using Variable Type Inference
 
 - Make a sum of two number of the type int, and print the result
-- Declarate text using String, StringBuilder, StringBuffer
-- Declarate collections as List, ArrayList, Set, Map
+- Declare text using String, StringBuilder, StringBuffer
+- Declare collections as List, ArrayList, Set, Map
 
 For Object type you can use the method getClass() to check the type that the compiler used.

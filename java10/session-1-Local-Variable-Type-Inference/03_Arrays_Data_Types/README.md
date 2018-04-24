@@ -1,6 +1,6 @@
 **Local Variable Type Inference for Arrays Data Types example**
 
-This example is a class named `ArraysTypes` wichs its methods should use 
+This example is a class named `ArraysTypes` whose methods should use 
 `Type Inference` to declare variables using them in Expressions, Statements, and Blocks as Loops.
 
 Perform the below commands to see the contents of the respective Java classes contained in the src folder:

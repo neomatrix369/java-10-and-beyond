@@ -34,12 +34,9 @@ public class ObjectTypes {
 
 
 		List<String> animalss = Arrays.asList( "DOG", "CAT", "MOUSE");
-
 		System.out.println(animalss);
 
-
 		//Checking objects' class
-		/* Uncomment this block to check the class type inferences
 		System.out.println( " " );
 		System.out.println( "totalPayment is an instance of " + totalPayment.getClass() );
 		System.out.println( "days is an instance of " + days.getClass() );
@@ -47,6 +44,5 @@ public class ObjectTypes {
 		System.out.println( "theLordOfTheRings is an instance of " + theLordOfTheRings.getClass() );
 		System.out.println( "centralPark is an instance of " + centralPark.getClass() );
 		System.out.println( "animalss is an instance of " + animalss.getClass() );
-		*/
 	}
 }

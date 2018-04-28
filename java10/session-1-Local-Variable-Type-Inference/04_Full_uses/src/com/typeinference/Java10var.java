@@ -36,11 +36,9 @@ public class Java10var {
 	}
 
 	public Double average(List<Long> numberss) {
-
 		Double average = 0D;
 		Double sum = numberss.stream().mapToDouble( p -> p ).sum();
 		average = sum / numberss.size();
-
 		return average;
 	}
 
@@ -59,12 +57,9 @@ public class Java10var {
 		System.out.println( "Current time in Arauca - Colombia is: " + localDateTimeAraucaColombia );
 		System.out.println( "Current time in Istanbul - Turkey is: " + localDateTimeIstanbulTurkey );
 		System.out.println( "Current time in London - United Kingdom is: " + localDateTimeLondoUK );
-
 	}
 
 	public static void printMonth() {
-
-
 		int month = LocalDate.now().getMonthValue();
 		String monthString;
 		switch ( month ) {
@@ -108,15 +103,12 @@ public class Java10var {
 				monthString = "Invalid month";
 				break;
 		}
-
 		System.out.println( "monthString: " + monthString );
-
 	}
 
 
 	public static void printNumbers() {
-
-		List myList = new ArrayList();
+		List<String> myList = new ArrayList<>();
 
 		myList.add( "ONE" );
 		myList.add( "TWO" );
@@ -130,7 +122,7 @@ public class Java10var {
 
 		System.out.println( myList );
 
-		myList = new LinkedList();
+		myList = new LinkedList<>();
 
 		myList.add( "1" );
 		myList.add( "2" );

@@ -109,6 +109,7 @@
 - [Java 10’s Experimental JIT Compiler explained in 5 minutes](https://blog.idrsolutions.com/2018/04/java-10-project-graal-explained-5-minutes/)  (Georgia Ingham, Java Developer at IDRSolutions) 
 - [#Java Training Session](https://twitter.com/java/status/986759064481878016) (Twitter handle @Java) 
 - Related JEPs: [JEP 243: Java-Level JVM Compiler Interface](http://openjdk.java.net/jeps/243) and [JSR 223: Scripting for the Java Platform](https://www.jcp.org/en/jsr/detail?id=223) (also see [Scripting for the Java Platform](https://en.wikipedia.org/wiki/Scripting_for_the_Java_Platform))
+- [Awesome-graal](https://github.com/neomatrix369/awesome-graal/blob/master/README.md)
 
 [JEP 319](http://openjdk.java.net/jeps/319) Root Certificates:
 
@@ -127,7 +128,8 @@ Docker fixes and enhancements:
 ### General blog posts, presentations, slides
 
 - [The Top 3 Java Performance Improvements we're looking forward to](https://www.opsian.com/blog/top-3-java-performance-improvements/) (By Richard Warburton, Sadiq Jaffer from Opsian) - a mix of Java 9, 10 and 11
-- [How Java 10 will improve performance](https://blog.idrsolutions.com/2018/04/java-10-will-improve-performance/) (Kieran France, Programmer for IDRSolutions) 
+- [How Java 10 will improve performance](https://blog.idrsolutions.com/2018/04/java-10-will-improve-performance/) (Kieran France, Programmer for IDRSolutions)
+- [HotSpot VM Options for JDK10](https://chriswhocodes.com/hotspot_options_jdk10.html) 
 
 ### Books
 

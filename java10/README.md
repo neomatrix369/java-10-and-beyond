@@ -4,7 +4,6 @@ Exercises based on some of the features of Java 10 released in the Early Access 
 
 ___
 
-
 ####   Please note you are in the `master` branch which contains exercises which need to be solved by looking at documentation or resources provided in this repo. Hints may be provided within the source or script files. If you hit a roadblock and really want to see a possible solution you can switch to the `exercise-solutions` branch for that. 
 
 ####   Looking at the solutions can take away the challenge behind solving the exercises. Stay on the `master` branch in case you would like to continue to have fun solving the exercises and working through the challenges.
@@ -12,7 +11,6 @@ ___
 [Switch to exercise-solutions branch](https://github.com/neomatrix369/java-10-and-beyond/blob/exercise-solutions/java10/README.md)
 
 ___
-
 
 ## Setup (all platforms)
 
@@ -59,14 +57,14 @@ See [Download, install and configure Eclipse Oxygen for JDK10](setupEclipseOxyge
 
 Please ensure you have verified that the necessary JDK programs work in your environment with the help of the [Download, install and verify JDK](setupAndVerifyJDK.md) resource. 
 
-- Session 1: [Topic 1]
-   - ... [./...](.../...)
+- Session 1: [JEP 296](http://openjdk.java.net/jeps/296): Local-Variable Type Inference
+   - [Exercises on how to use the `var` keyword in Java 10](session-1-Local-Variable-Type-Inference/06_More_Exercises/README.md)
    
-- Session 2: [Topic 2]
-   - ... [./...](.../...)
+- Session 2: [JEP 313](http://openjdk.java.net/jeps/313): Remove the Native-Header Generation Tool (javah)
+   - [Exercises on how to check for removed functionality and its alternative solution](./JEP_313_Remove_the_Native-Header_Generation_Tool_(javah)/README.md)
 
-- Session 3: [Topic 3]
-   - ... [./...](.../...)
+- Session 3: [JEP 319](http://openjdk.java.net/jeps/319): Root Certificates 
+   - [Exercises on how to check for the new added functionality](./JEP_319_Root_Certificates/README.md)
 
 - Session 3: [Topic 4]
    - ... [./...](.../...)

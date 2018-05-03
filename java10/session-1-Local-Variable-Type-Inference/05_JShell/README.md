@@ -1,4 +1,4 @@
-**Local Variable Type Inference for all Types example**
+**JShell: Local Variable Type Inference for all Types example**
 
 This example covers the use of `Type Inference` in JShell to declare variables using them in Expressions, Statements, and Blocks as Loops.
 

@@ -4,8 +4,10 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Map;
 
 /*
 * This class has some variable declarations that can't be changed for Java 10 type inference way,
@@ -48,7 +50,6 @@ public class Java10var {
 		return first;
 	}
 
-
 	public void printTimes() {
 		LocalDateTime localDateTimeAraucaColombia = LocalDateTime.now( zoneIdAraucaColombia );
 		LocalDateTime localDateTimeIstanbulTurkey = LocalDateTime.now( zoneIdIstanbulTurkey );
@@ -62,50 +63,25 @@ public class Java10var {
 	public static void printMonth() {
 		int month = LocalDate.now().getMonthValue();
 		String monthString;
-		switch ( month ) {
-			case 1:
-				monthString = "January";
-				break;
-			case 2:
-				monthString = "February";
-				break;
-			case 3:
-				monthString = "March";
-				break;
-			case 4:
-				monthString = "April";
-				break;
-			case 5:
-				monthString = "May";
-				break;
-			case 6:
-				monthString = "June";
-				break;
-			case 7:
-				monthString = "July";
-				break;
-			case 8:
-				monthString = "August";
-				break;
-			case 9:
-				monthString = "September";
-				break;
-			case 10:
-				monthString = "October";
-				break;
-			case 11:
-				monthString = "November";
-				break;
-			case 12:
-				monthString = "December";
-				break;
-			default:
-				monthString = "Invalid month";
-				break;
-		}
+
+		Map<Integer, String> months = new HashMap<>();
+		months.put( 1, "January" );
+		months.put( 2, "February" );
+		months.put( 3, "March" );
+		months.put( 4, "April" );
+		months.put( 5, "May" );
+		months.put( 6, "June" );
+		months.put( 7, "July" );
+		months.put( 8, "August" );
+		months.put( 9, "September" );
+		months.put( 10, "October" );
+		months.put( 11, "November" );
+		months.put( 12, "December" );
+
+		monthString = months.get( month );
+
 		System.out.println( "monthString: " + monthString );
 	}
-
 
 	public static void printNumbers() {
 		List<String> myList = new ArrayList<>();

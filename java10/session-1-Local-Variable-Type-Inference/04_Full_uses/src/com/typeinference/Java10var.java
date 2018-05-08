@@ -2,6 +2,7 @@ package com.typeinference;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
+import java.time.Month;
 import java.time.ZoneId;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -61,54 +62,27 @@ public class Java10var {
 	}
 
 	public static void printMonth() {
-		int month = LocalDate.now().getMonthValue();
-		String monthString;
+		int monthValue = LocalDate.now().getMonthValue();
+		String monthName;
 
 		Map<Integer, String> months = new HashMap<>();
-		months.put( 1, "January" );
-		months.put( 2, "February" );
-		months.put( 3, "March" );
-		months.put( 4, "April" );
-		months.put( 5, "May" );
-		months.put( 6, "June" );
-		months.put( 7, "July" );
-		months.put( 8, "August" );
-		months.put( 9, "September" );
-		months.put( 10, "October" );
-		months.put( 11, "November" );
-		months.put( 12, "December" );
+		for(Month month:Month.values()){
+			months.put( month.getValue(), month.name() );
+		}
 
-		monthString = months.get( month );
+		monthName = months.get( monthValue );
 
-		System.out.println( "monthString: " + monthString );
+		System.out.println( "monthName: " + monthName );
 	}
 
 	public static void printNumbers() {
 		List<String> myList = new ArrayList<>();
-
-		myList.add( "ONE" );
-		myList.add( "TWO" );
-		myList.add( "THREE" );
-		myList.add( "FIVE" );
-		myList.add( "SEVEN" );
-		myList.add( "ELEVEN" );
-		myList.add( "THIRTEEN" );
-		myList.add( "SEVENTEEN" );
-		myList.add( "NINETEEN" );
+		myList.addAll( List.of("ONE","TWO","THREE","FIVE","SEVEN", "ELEVEN", "THIRTEEN", "SEVENTEEN" ) );
 
 		System.out.println( myList );
 
 		myList = new LinkedList<>();
-
-		myList.add( "1" );
-		myList.add( "2" );
-		myList.add( "3" );
-		myList.add( "5" );
-		myList.add( "7" );
-		myList.add( "11" );
-		myList.add( "13" );
-		myList.add( "17" );
-		myList.add( "19" );
+		myList.addAll( List.of("1" , "2" , "3" , "5" , "7" , "11" , "13" , "17" ));
 
 		System.out.println( myList );
 	}

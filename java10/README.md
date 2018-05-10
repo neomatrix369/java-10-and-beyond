@@ -58,6 +58,12 @@ See [Download, install and configure Eclipse Oxygen for JDK10](setupEclipseOxyge
 Please ensure you have verified that the necessary JDK programs work in your environment with the help of the [Download, install and verify JDK](setupAndVerifyJDK.md) resource. 
 
 - Session 1: [JEP 296](http://openjdk.java.net/jeps/296): Local-Variable Type Inference
+   - [Local Variable Type Inference for Primitive Data Types](session-1-Local-Variable-Type-Inference/01_Primitive_Data_Types/README.md)
+   - [Local Variable Type Inference for Object Data Types](session-1-Local-Variable-Type-Inference/02_Object_Data_Types/README.md)
+   - [Local Variable Type Inference for Arrays Data Types](session-1-Local-Variable-Type-Inference/03_Arrays_Data_Types/README.md)
+   - [Local Variable Type Inference for all Types](session-1-Local-Variable-Type-Inference/04_Full_uses/README.md)
+   - [JShell: Local Variable Type Inference for all Types](session-1-Local-Variable-Type-Inference/05_JShell/README.md)
+
    - [Exercises on how to use the `var` keyword in Java 10](session-1-Local-Variable-Type-Inference/06_More_Exercises/README.md)
    
 - Session 2: [JEP 313](http://openjdk.java.net/jeps/313): Remove the Native-Header Generation Tool (javah)

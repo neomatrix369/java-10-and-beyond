@@ -57,7 +57,7 @@ See [Download, install and configure Eclipse Oxygen for JDK10](setupEclipseOxyge
 Please ensure you have verified that the necessary JDK programs work in your environment with the help of the [Download, install and verify JDK](setupAndVerifyJDK.md) resource. 
 
 - Session 1: [JEP 296](http://openjdk.java.net/jeps/296): Local-Variable Type Inference
-   - [Examples on how to use the `var` keyword in Java 10](session-1-Local-Variable-Type-Inference/06_More_Exercises/README.md)
+   - [Examples on how to use the `var` keyword in Java 10](JEP_286_Local-Variable_Type_Inference/06_More_Exercises/README.md)
    
 - Session 2: [JEP 313](http://openjdk.java.net/jeps/313): Remove the Native-Header Generation Tool (javah)
    - [Example on how to check for removed functionality and its alternative solution](./JEP_313_Remove_the_Native-Header_Generation_Tool_(javah)/README.md)

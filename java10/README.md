@@ -72,8 +72,8 @@ Please ensure you have verified that the necessary JDK programs work in your env
 - Session 3: [JEP 319](http://openjdk.java.net/jeps/319): Root Certificates 
    - [Exercises on how to check for the new added functionality](./JEP_319_Root_Certificates/README.md)
 
-- Session 3: [Topic 4]
-   - ... [./...](.../...)
+- Session 4: [JEP 314] (http://openjdk.java.net/jeps/314) Additional Unicode Language-Tag Extensions
+   - [Additional Unicode Language-Tag Extensions](/JEP_314_Additional_Unicode_Language-Tag_Extensions/README.md)
         
 Each example is enclosed in a folder of its own containing bash scripts to compile, package and run the respective examples. Use these scripts for each of the examples.
 
